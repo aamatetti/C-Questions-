@@ -2,6 +2,7 @@
 
 Q: What is a namespace?
     Generally the first code in a c# program after using statement, used to organize large programming projects, and helps programmers organize their classes. 
+
 Q: What are value types?
  	  Variables that can be directly assigned a number value, such as int, float or long.
 Q: What are reference types?
